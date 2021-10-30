@@ -54,7 +54,6 @@ function populateUI() {
 	if (selectedMovieIndex !== null) {
 		movieSelect.selectedIndex = selectedMovieIndex;
 		console.log('movieSelect.selectedIndex' + movieSelect.selectedIndex);
-		// console.log('Selectedmovie index' + selectedMovieIndex);
 	}
 }
 
